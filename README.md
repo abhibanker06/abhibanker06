@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">Passionate Developer | Currently learning MERN stack and building exciting projects. Focused on crafting seamless and engaging web experiences.</h3>
 
 ---
 
