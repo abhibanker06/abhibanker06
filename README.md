@@ -34,7 +34,7 @@
 
 ### 📊 GitHub Stats:
 <p>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=abhibanker06&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abhibanker06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhibanker06&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
